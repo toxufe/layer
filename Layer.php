@@ -1,6 +1,7 @@
 <?php
 /**
- * @author <723887809@qq.com>
+ * @email  <723887809@qq.com>
+ * @author <toxufe>
  */
 
 namespace toxufe\layer;
