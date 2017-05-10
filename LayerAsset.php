@@ -7,7 +7,7 @@ use yii\web\JqueryAsset;
 
 class LayerAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@vendor/toxufe/layer/assets/layer-v3.03/layer/';
+    public $sourcePath = '@vendor/toxufe/layer/assets/layer-v3.0.3/layer/';
 
     public $js = [
         'layer.js',
