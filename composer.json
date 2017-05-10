@@ -1,0 +1,21 @@
+{
+    "name": "toxufe/layer",
+    "description": "Yii 2.0datepicker 小组件",
+    "keywords": ["yii2","layer"],
+    "homepage": "https://github.com/toxufe/layer.git",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tongxiaodie",
+            "email": "723887809@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "toxufe\\layer\\": ""
+        }
+    }}
